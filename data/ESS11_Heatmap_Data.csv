@@ -1,0 +1,361 @@
+cntry,Country_Name,Country_Highlight,Age_Group,Political_Spectrum,Avg_Immigration,n,Intensidad
+AT,Austria,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.87354038267355,40,Positivo
+AT,Austria,Resto de Europa,Gen Z (<27),Centro (4-6),6.136581127841905,71,Positivo
+AT,Austria,Resto de Europa,Gen Z (<27),Derecha (7-10),4.099957220154926,9,Negativo
+AT,Austria,Resto de Europa,Millennials (27-42),Izquierda (0-3),6.8109796205889594,73,Positivo
+AT,Austria,Resto de Europa,Millennials (27-42),Centro (4-6),5.412581826306571,253,Neutral
+AT,Austria,Resto de Europa,Millennials (27-42),Derecha (7-10),2.8898805935855316,44,Muy negativo
+AT,Austria,Resto de Europa,Gen X (43-58),Izquierda (0-3),6.919390055015723,94,Positivo
+AT,Austria,Resto de Europa,Gen X (43-58),Centro (4-6),5.323260893089773,412,Neutral
+AT,Austria,Resto de Europa,Gen X (43-58),Derecha (7-10),3.797238220184911,94,Muy negativo
+AT,Austria,Resto de Europa,Boomers+ (59+),Izquierda (0-3),6.369351638141511,164,Positivo
+AT,Austria,Resto de Europa,Boomers+ (59+),Centro (4-6),4.957580120617842,679,Negativo
+AT,Austria,Resto de Europa,Boomers+ (59+),Derecha (7-10),3.731151082763835,123,Muy negativo
+BE,Bélgica,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.456602833025713,55,Positivo
+BE,Bélgica,Resto de Europa,Gen Z (<27),Centro (4-6),6.0200275514732136,133,Positivo
+BE,Bélgica,Resto de Europa,Gen Z (<27),Derecha (7-10),5.018453795195587,57,Neutral
+BE,Bélgica,Resto de Europa,Millennials (27-42),Izquierda (0-3),6.731580341259133,91,Positivo
+BE,Bélgica,Resto de Europa,Millennials (27-42),Centro (4-6),5.987364644001487,161,Neutral
+BE,Bélgica,Resto de Europa,Millennials (27-42),Derecha (7-10),5.182951537104858,76,Neutral
+BE,Bélgica,Resto de Europa,Gen X (43-58),Izquierda (0-3),6.039578627378169,78,Positivo
+BE,Bélgica,Resto de Europa,Gen X (43-58),Centro (4-6),5.7371136466060895,197,Neutral
+BE,Bélgica,Resto de Europa,Gen X (43-58),Derecha (7-10),4.617670508438032,103,Negativo
+BE,Bélgica,Resto de Europa,Boomers+ (59+),Izquierda (0-3),5.584173245371143,90,Neutral
+BE,Bélgica,Resto de Europa,Boomers+ (59+),Centro (4-6),5.52726042963557,312,Neutral
+BE,Bélgica,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.285799968530357,137,Neutral
+BG,Bulgaria,Resto de Europa,Gen Z (<27),Izquierda (0-3),4.573407318687698,8,Negativo
+BG,Bulgaria,Resto de Europa,Gen Z (<27),Centro (4-6),4.3095197760778925,84,Negativo
+BG,Bulgaria,Resto de Europa,Gen Z (<27),Derecha (7-10),1.9164714192892744,100,Muy negativo
+BG,Bulgaria,Resto de Europa,Millennials (27-42),Izquierda (0-3),4.460690762410188,23,Negativo
+BG,Bulgaria,Resto de Europa,Millennials (27-42),Centro (4-6),4.752664301866739,175,Negativo
+BG,Bulgaria,Resto de Europa,Millennials (27-42),Derecha (7-10),3.350428924595552,126,Muy negativo
+BG,Bulgaria,Resto de Europa,Gen X (43-58),Izquierda (0-3),4.124430886846251,57,Negativo
+BG,Bulgaria,Resto de Europa,Gen X (43-58),Centro (4-6),4.492745227764164,275,Negativo
+BG,Bulgaria,Resto de Europa,Gen X (43-58),Derecha (7-10),3.977255946658602,181,Muy negativo
+BG,Bulgaria,Resto de Europa,Boomers+ (59+),Izquierda (0-3),4.00737573279746,272,Negativo
+BG,Bulgaria,Resto de Europa,Boomers+ (59+),Centro (4-6),4.323502614646417,270,Negativo
+BG,Bulgaria,Resto de Europa,Boomers+ (59+),Derecha (7-10),4.30937923812791,135,Negativo
+CH,Suiza,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.443207509959347,52,Positivo
+CH,Suiza,Resto de Europa,Gen Z (<27),Centro (4-6),5.969372643884977,75,Neutral
+CH,Suiza,Resto de Europa,Gen Z (<27),Derecha (7-10),4.926063038959259,27,Negativo
+CH,Suiza,Resto de Europa,Millennials (27-42),Izquierda (0-3),7.3756734360424225,87,Muy positivo
+CH,Suiza,Resto de Europa,Millennials (27-42),Centro (4-6),6.285034525905071,147,Positivo
+CH,Suiza,Resto de Europa,Millennials (27-42),Derecha (7-10),5.595282017009697,76,Neutral
+CH,Suiza,Resto de Europa,Gen X (43-58),Izquierda (0-3),7.555663569088787,76,Muy positivo
+CH,Suiza,Resto de Europa,Gen X (43-58),Centro (4-6),6.386632652706783,176,Positivo
+CH,Suiza,Resto de Europa,Gen X (43-58),Derecha (7-10),5.754115375025296,85,Neutral
+CH,Suiza,Resto de Europa,Boomers+ (59+),Izquierda (0-3),7.073511695768566,95,Muy positivo
+CH,Suiza,Resto de Europa,Boomers+ (59+),Centro (4-6),5.9879653085189375,212,Neutral
+CH,Suiza,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.616367464484505,128,Neutral
+CY,Chipre,Resto de Europa,Gen Z (<27),Izquierda (0-3),2.763964316742173,10,Muy negativo
+CY,Chipre,Resto de Europa,Gen Z (<27),Centro (4-6),3.995107411515883,25,Muy negativo
+CY,Chipre,Resto de Europa,Gen Z (<27),Derecha (7-10),4.483507904714461,9,Negativo
+CY,Chipre,Resto de Europa,Millennials (27-42),Izquierda (0-3),3.758696230293556,25,Muy negativo
+CY,Chipre,Resto de Europa,Millennials (27-42),Centro (4-6),3.71613661912748,60,Muy negativo
+CY,Chipre,Resto de Europa,Millennials (27-42),Derecha (7-10),3.0740168781906427,26,Muy negativo
+CY,Chipre,Resto de Europa,Gen X (43-58),Izquierda (0-3),4.19577869926723,25,Negativo
+CY,Chipre,Resto de Europa,Gen X (43-58),Centro (4-6),3.961218273333524,74,Muy negativo
+CY,Chipre,Resto de Europa,Gen X (43-58),Derecha (7-10),3.3081563083835364,49,Muy negativo
+CY,Chipre,Resto de Europa,Boomers+ (59+),Izquierda (0-3),3.8323316004777346,69,Muy negativo
+CY,Chipre,Resto de Europa,Boomers+ (59+),Centro (4-6),3.454241131737347,119,Muy negativo
+CY,Chipre,Resto de Europa,Boomers+ (59+),Derecha (7-10),3.602612722256501,87,Muy negativo
+DE,Alemania,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.827708247604804,100,Positivo
+DE,Alemania,Resto de Europa,Gen Z (<27),Centro (4-6),6.012603349688102,180,Positivo
+DE,Alemania,Resto de Europa,Gen Z (<27),Derecha (7-10),5.988612341130415,33,Neutral
+DE,Alemania,Resto de Europa,Millennials (27-42),Izquierda (0-3),7.307483582606498,131,Muy positivo
+DE,Alemania,Resto de Europa,Millennials (27-42),Centro (4-6),5.497781032097513,351,Neutral
+DE,Alemania,Resto de Europa,Millennials (27-42),Derecha (7-10),4.232103087025298,60,Negativo
+DE,Alemania,Resto de Europa,Gen X (43-58),Izquierda (0-3),6.58966115790857,148,Positivo
+DE,Alemania,Resto de Europa,Gen X (43-58),Centro (4-6),5.175382938837776,358,Neutral
+DE,Alemania,Resto de Europa,Gen X (43-58),Derecha (7-10),4.348554770888989,59,Negativo
+DE,Alemania,Resto de Europa,Boomers+ (59+),Izquierda (0-3),5.5902692389259805,214,Neutral
+DE,Alemania,Resto de Europa,Boomers+ (59+),Centro (4-6),4.953273983633886,532,Negativo
+DE,Alemania,Resto de Europa,Boomers+ (59+),Derecha (7-10),4.5343315360558,112,Negativo
+EE,Estonia,Resto de Europa,Gen Z (<27),Izquierda (0-3),5.810339089820509,22,Neutral
+EE,Estonia,Resto de Europa,Gen Z (<27),Centro (4-6),5.189635612815601,82,Neutral
+EE,Estonia,Resto de Europa,Gen Z (<27),Derecha (7-10),5.20417592774179,30,Neutral
+EE,Estonia,Resto de Europa,Millennials (27-42),Izquierda (0-3),5.890916938056336,30,Neutral
+EE,Estonia,Resto de Europa,Millennials (27-42),Centro (4-6),5.139155713646716,164,Neutral
+EE,Estonia,Resto de Europa,Millennials (27-42),Derecha (7-10),5.479167034385847,67,Neutral
+EE,Estonia,Resto de Europa,Gen X (43-58),Izquierda (0-3),4.993446726403246,24,Negativo
+EE,Estonia,Resto de Europa,Gen X (43-58),Centro (4-6),5.262284342608525,179,Neutral
+EE,Estonia,Resto de Europa,Gen X (43-58),Derecha (7-10),5.635722202872697,120,Neutral
+EE,Estonia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),4.961868152271762,32,Negativo
+EE,Estonia,Resto de Europa,Boomers+ (59+),Centro (4-6),5.059149234435993,202,Neutral
+EE,Estonia,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.058414749667269,124,Neutral
+ES,España,España,Gen Z (<27),Izquierda (0-3),6.8760824335186435,54,Positivo
+ES,España,España,Gen Z (<27),Centro (4-6),6.194340782350507,121,Positivo
+ES,España,España,Gen Z (<27),Derecha (7-10),5.4038067253229665,60,Neutral
+ES,España,España,Millennials (27-42),Izquierda (0-3),7.15201868623707,104,Muy positivo
+ES,España,España,Millennials (27-42),Centro (4-6),6.193305804781383,177,Positivo
+ES,España,España,Millennials (27-42),Derecha (7-10),5.749339272512874,50,Neutral
+ES,España,España,Gen X (43-58),Izquierda (0-3),6.861737192353708,162,Positivo
+ES,España,España,Gen X (43-58),Centro (4-6),6.161253657580109,229,Positivo
+ES,España,España,Gen X (43-58),Derecha (7-10),5.3601200012342725,91,Neutral
+ES,España,España,Boomers+ (59+),Izquierda (0-3),6.5274461283890295,197,Positivo
+ES,España,España,Boomers+ (59+),Centro (4-6),6.019904493672144,255,Positivo
+ES,España,España,Boomers+ (59+),Derecha (7-10),5.404880783480301,134,Neutral
+FI,Finlandia,Resto de Europa,Gen Z (<27),Izquierda (0-3),7.712905792625436,53,Muy positivo
+FI,Finlandia,Resto de Europa,Gen Z (<27),Centro (4-6),6.343576396358045,65,Positivo
+FI,Finlandia,Resto de Europa,Gen Z (<27),Derecha (7-10),5.7531165193604545,48,Neutral
+FI,Finlandia,Resto de Europa,Millennials (27-42),Izquierda (0-3),7.867033583571587,89,Muy positivo
+FI,Finlandia,Resto de Europa,Millennials (27-42),Centro (4-6),6.310797534472518,155,Positivo
+FI,Finlandia,Resto de Europa,Millennials (27-42),Derecha (7-10),5.69981650794519,93,Neutral
+FI,Finlandia,Resto de Europa,Gen X (43-58),Izquierda (0-3),7.611605464199627,58,Muy positivo
+FI,Finlandia,Resto de Europa,Gen X (43-58),Centro (4-6),6.176772995474911,141,Positivo
+FI,Finlandia,Resto de Europa,Gen X (43-58),Derecha (7-10),6.286354413477569,141,Positivo
+FI,Finlandia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),6.82788156768693,80,Positivo
+FI,Finlandia,Resto de Europa,Boomers+ (59+),Centro (4-6),6.394498210198812,291,Positivo
+FI,Finlandia,Resto de Europa,Boomers+ (59+),Derecha (7-10),6.6059517023421295,286,Positivo
+FR,Francia,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.610647734383733,55,Positivo
+FR,Francia,Resto de Europa,Gen Z (<27),Centro (4-6),5.854698539197146,131,Neutral
+FR,Francia,Resto de Europa,Gen Z (<27),Derecha (7-10),4.480435567793263,39,Negativo
+FR,Francia,Resto de Europa,Millennials (27-42),Izquierda (0-3),7.021697630705587,113,Muy positivo
+FR,Francia,Resto de Europa,Millennials (27-42),Centro (4-6),5.627194024902664,137,Neutral
+FR,Francia,Resto de Europa,Millennials (27-42),Derecha (7-10),4.224258965899038,81,Negativo
+FR,Francia,Resto de Europa,Gen X (43-58),Izquierda (0-3),6.681526346686838,93,Positivo
+FR,Francia,Resto de Europa,Gen X (43-58),Centro (4-6),5.813423719781374,196,Neutral
+FR,Francia,Resto de Europa,Gen X (43-58),Derecha (7-10),3.8501890379803863,118,Muy negativo
+FR,Francia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),5.99251611312126,137,Neutral
+FR,Francia,Resto de Europa,Boomers+ (59+),Centro (4-6),4.930633023933378,260,Negativo
+FR,Francia,Resto de Europa,Boomers+ (59+),Derecha (7-10),4.038074528361244,175,Negativo
+GB,Reino Unido,Resto de Europa,Gen Z (<27),Izquierda (0-3),7.590307563448956,41,Muy positivo
+GB,Reino Unido,Resto de Europa,Gen Z (<27),Centro (4-6),6.7399735207319,51,Positivo
+GB,Reino Unido,Resto de Europa,Gen Z (<27),Derecha (7-10),4.1105366538304375,4,Negativo
+GB,Reino Unido,Resto de Europa,Millennials (27-42),Izquierda (0-3),7.959567594861591,100,Muy positivo
+GB,Reino Unido,Resto de Europa,Millennials (27-42),Centro (4-6),6.801460080513082,178,Positivo
+GB,Reino Unido,Resto de Europa,Millennials (27-42),Derecha (7-10),7.143963244255493,28,Muy positivo
+GB,Reino Unido,Resto de Europa,Gen X (43-58),Izquierda (0-3),7.170439179211038,98,Muy positivo
+GB,Reino Unido,Resto de Europa,Gen X (43-58),Centro (4-6),6.569866366251023,175,Positivo
+GB,Reino Unido,Resto de Europa,Gen X (43-58),Derecha (7-10),5.663506985774755,52,Neutral
+GB,Reino Unido,Resto de Europa,Boomers+ (59+),Izquierda (0-3),7.293051401086047,127,Muy positivo
+GB,Reino Unido,Resto de Europa,Boomers+ (59+),Centro (4-6),5.641423606020757,351,Neutral
+GB,Reino Unido,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.313961489087099,132,Neutral
+GR,Grecia,Resto de Europa,Gen Z (<27),Izquierda (0-3),5.48649103239036,42,Neutral
+GR,Grecia,Resto de Europa,Gen Z (<27),Centro (4-6),4.133238191550007,121,Negativo
+GR,Grecia,Resto de Europa,Gen Z (<27),Derecha (7-10),4.057238352863777,47,Negativo
+GR,Grecia,Resto de Europa,Millennials (27-42),Izquierda (0-3),4.775590296170366,115,Negativo
+GR,Grecia,Resto de Europa,Millennials (27-42),Centro (4-6),4.427311526803457,285,Negativo
+GR,Grecia,Resto de Europa,Millennials (27-42),Derecha (7-10),4.065241101498491,140,Negativo
+GR,Grecia,Resto de Europa,Gen X (43-58),Izquierda (0-3),4.765950749639467,143,Negativo
+GR,Grecia,Resto de Europa,Gen X (43-58),Centro (4-6),4.151074439344163,389,Negativo
+GR,Grecia,Resto de Europa,Gen X (43-58),Derecha (7-10),4.020693867545956,215,Negativo
+GR,Grecia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),4.077631711595956,151,Negativo
+GR,Grecia,Resto de Europa,Boomers+ (59+),Centro (4-6),3.8311301490465155,355,Muy negativo
+GR,Grecia,Resto de Europa,Boomers+ (59+),Derecha (7-10),3.5375915529564,304,Muy negativo
+HR,Croacia,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.132295522782812,37,Positivo
+HR,Croacia,Resto de Europa,Gen Z (<27),Centro (4-6),5.578990470143101,97,Neutral
+HR,Croacia,Resto de Europa,Gen Z (<27),Derecha (7-10),5.22872508063254,31,Neutral
+HR,Croacia,Resto de Europa,Millennials (27-42),Izquierda (0-3),5.005981688178411,48,Neutral
+HR,Croacia,Resto de Europa,Millennials (27-42),Centro (4-6),5.213604099111507,163,Neutral
+HR,Croacia,Resto de Europa,Millennials (27-42),Derecha (7-10),5.008878779412186,65,Neutral
+HR,Croacia,Resto de Europa,Gen X (43-58),Izquierda (0-3),5.347779274084026,68,Neutral
+HR,Croacia,Resto de Europa,Gen X (43-58),Centro (4-6),4.765310969641667,175,Negativo
+HR,Croacia,Resto de Europa,Gen X (43-58),Derecha (7-10),4.418062970749722,76,Negativo
+HR,Croacia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),5.370396137315495,112,Neutral
+HR,Croacia,Resto de Europa,Boomers+ (59+),Centro (4-6),5.1262876642928425,276,Neutral
+HR,Croacia,Resto de Europa,Boomers+ (59+),Derecha (7-10),4.446178068316725,155,Negativo
+HU,Hungría,Resto de Europa,Gen Z (<27),Izquierda (0-3),4.408930847147313,22,Negativo
+HU,Hungría,Resto de Europa,Gen Z (<27),Centro (4-6),3.8990874394576456,103,Muy negativo
+HU,Hungría,Resto de Europa,Gen Z (<27),Derecha (7-10),4.261124624722863,48,Negativo
+HU,Hungría,Resto de Europa,Millennials (27-42),Izquierda (0-3),4.575663694465436,87,Negativo
+HU,Hungría,Resto de Europa,Millennials (27-42),Centro (4-6),3.8053120915370613,195,Muy negativo
+HU,Hungría,Resto de Europa,Millennials (27-42),Derecha (7-10),3.367655325426489,140,Muy negativo
+HU,Hungría,Resto de Europa,Gen X (43-58),Izquierda (0-3),4.321043293255209,112,Negativo
+HU,Hungría,Resto de Europa,Gen X (43-58),Centro (4-6),3.9053717784933455,211,Muy negativo
+HU,Hungría,Resto de Europa,Gen X (43-58),Derecha (7-10),3.434224504492789,208,Muy negativo
+HU,Hungría,Resto de Europa,Boomers+ (59+),Izquierda (0-3),4.507938933041071,119,Negativo
+HU,Hungría,Resto de Europa,Boomers+ (59+),Centro (4-6),3.562785842608734,215,Muy negativo
+HU,Hungría,Resto de Europa,Boomers+ (59+),Derecha (7-10),3.474593127696364,279,Muy negativo
+IE,Irlanda,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.507287565420525,34,Positivo
+IE,Irlanda,Resto de Europa,Gen Z (<27),Centro (4-6),6.305665855221104,65,Positivo
+IE,Irlanda,Resto de Europa,Gen Z (<27),Derecha (7-10),5.209549390976259,7,Neutral
+IE,Irlanda,Resto de Europa,Millennials (27-42),Izquierda (0-3),6.799277926799373,79,Positivo
+IE,Irlanda,Resto de Europa,Millennials (27-42),Centro (4-6),6.440622784497034,231,Positivo
+IE,Irlanda,Resto de Europa,Millennials (27-42),Derecha (7-10),6.181553054526452,49,Positivo
+IE,Irlanda,Resto de Europa,Gen X (43-58),Izquierda (0-3),6.238190001913786,95,Positivo
+IE,Irlanda,Resto de Europa,Gen X (43-58),Centro (4-6),6.137653523826516,305,Positivo
+IE,Irlanda,Resto de Europa,Gen X (43-58),Derecha (7-10),5.928733629263531,57,Neutral
+IE,Irlanda,Resto de Europa,Boomers+ (59+),Izquierda (0-3),6.472989198425001,118,Positivo
+IE,Irlanda,Resto de Europa,Boomers+ (59+),Centro (4-6),6.002129602908539,457,Positivo
+IE,Irlanda,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.81873431829617,176,Neutral
+IL,Israel,Resto de Europa,Gen Z (<27),Izquierda (0-3),4.599546344238622,44,Negativo
+IL,Israel,Resto de Europa,Gen Z (<27),Centro (4-6),4.089569219695187,65,Negativo
+IL,Israel,Resto de Europa,Gen Z (<27),Derecha (7-10),4.994366410685828,72,Negativo
+IL,Israel,Resto de Europa,Millennials (27-42),Izquierda (0-3),4.188462322217266,47,Negativo
+IL,Israel,Resto de Europa,Millennials (27-42),Centro (4-6),3.778535089774693,87,Muy negativo
+IL,Israel,Resto de Europa,Millennials (27-42),Derecha (7-10),4.9095973433385405,110,Negativo
+IL,Israel,Resto de Europa,Gen X (43-58),Izquierda (0-3),3.9475040592424273,32,Muy negativo
+IL,Israel,Resto de Europa,Gen X (43-58),Centro (4-6),4.810503908043767,74,Negativo
+IL,Israel,Resto de Europa,Gen X (43-58),Derecha (7-10),5.73648366352733,78,Neutral
+IL,Israel,Resto de Europa,Boomers+ (59+),Izquierda (0-3),5.995340992426593,30,Neutral
+IL,Israel,Resto de Europa,Boomers+ (59+),Centro (4-6),5.060349724632271,75,Neutral
+IL,Israel,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.724371996477471,65,Neutral
+IS,Islandia,Resto de Europa,Gen Z (<27),Izquierda (0-3),7.330677217367058,34,Muy positivo
+IS,Islandia,Resto de Europa,Gen Z (<27),Centro (4-6),6.073502741796302,42,Positivo
+IS,Islandia,Resto de Europa,Gen Z (<27),Derecha (7-10),4.656369896600771,7,Negativo
+IS,Islandia,Resto de Europa,Millennials (27-42),Izquierda (0-3),7.966188975877093,66,Muy positivo
+IS,Islandia,Resto de Europa,Millennials (27-42),Centro (4-6),7.036356882842604,104,Muy positivo
+IS,Islandia,Resto de Europa,Millennials (27-42),Derecha (7-10),6.163856205734395,41,Positivo
+IS,Islandia,Resto de Europa,Gen X (43-58),Izquierda (0-3),7.981439254051417,53,Muy positivo
+IS,Islandia,Resto de Europa,Gen X (43-58),Centro (4-6),7.1281575018221215,106,Muy positivo
+IS,Islandia,Resto de Europa,Gen X (43-58),Derecha (7-10),6.117756919813148,60,Positivo
+IS,Islandia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),7.429222147558075,76,Muy positivo
+IS,Islandia,Resto de Europa,Boomers+ (59+),Centro (4-6),6.625564145299165,122,Positivo
+IS,Islandia,Resto de Europa,Boomers+ (59+),Derecha (7-10),6.47004484797862,84,Positivo
+IT,Italia,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.824170523379644,62,Positivo
+IT,Italia,Resto de Europa,Gen Z (<27),Centro (4-6),5.313025588813563,116,Neutral
+IT,Italia,Resto de Europa,Gen Z (<27),Derecha (7-10),5.006404304301483,59,Neutral
+IT,Italia,Resto de Europa,Millennials (27-42),Izquierda (0-3),6.352400450611368,106,Positivo
+IT,Italia,Resto de Europa,Millennials (27-42),Centro (4-6),5.271869742952406,244,Neutral
+IT,Italia,Resto de Europa,Millennials (27-42),Derecha (7-10),3.857684841125007,97,Muy negativo
+IT,Italia,Resto de Europa,Gen X (43-58),Izquierda (0-3),6.24570909527587,117,Positivo
+IT,Italia,Resto de Europa,Gen X (43-58),Centro (4-6),5.074256110452158,266,Neutral
+IT,Italia,Resto de Europa,Gen X (43-58),Derecha (7-10),3.8603067603960755,168,Muy negativo
+IT,Italia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),5.7360292806616515,189,Neutral
+IT,Italia,Resto de Europa,Boomers+ (59+),Centro (4-6),4.627489770048865,379,Negativo
+IT,Italia,Resto de Europa,Boomers+ (59+),Derecha (7-10),3.3411767105530155,273,Muy negativo
+LT,Lituania,Resto de Europa,Gen Z (<27),Izquierda (0-3),4.343069046088986,11,Negativo
+LT,Lituania,Resto de Europa,Gen Z (<27),Centro (4-6),6.226179419345427,48,Positivo
+LT,Lituania,Resto de Europa,Gen Z (<27),Derecha (7-10),7.199519042250699,33,Muy positivo
+LT,Lituania,Resto de Europa,Millennials (27-42),Izquierda (0-3),5.575349720081061,45,Neutral
+LT,Lituania,Resto de Europa,Millennials (27-42),Centro (4-6),5.142471493548585,165,Neutral
+LT,Lituania,Resto de Europa,Millennials (27-42),Derecha (7-10),6.342421302216962,57,Positivo
+LT,Lituania,Resto de Europa,Gen X (43-58),Izquierda (0-3),5.049219289470049,55,Neutral
+LT,Lituania,Resto de Europa,Gen X (43-58),Centro (4-6),4.729508315325893,160,Negativo
+LT,Lituania,Resto de Europa,Gen X (43-58),Derecha (7-10),5.645581251648417,71,Neutral
+LT,Lituania,Resto de Europa,Boomers+ (59+),Izquierda (0-3),4.717387775452496,78,Negativo
+LT,Lituania,Resto de Europa,Boomers+ (59+),Centro (4-6),5.107014035635368,157,Neutral
+LT,Lituania,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.485500924237584,104,Neutral
+LV,Letonia,Resto de Europa,Gen Z (<27),Izquierda (0-3),5.403969106021889,5,Neutral
+LV,Letonia,Resto de Europa,Gen Z (<27),Centro (4-6),5.292224806578888,25,Neutral
+LV,Letonia,Resto de Europa,Gen Z (<27),Derecha (7-10),5.631637728095583,20,Neutral
+LV,Letonia,Resto de Europa,Millennials (27-42),Izquierda (0-3),5.096755869645091,11,Neutral
+LV,Letonia,Resto de Europa,Millennials (27-42),Centro (4-6),5.929181846179249,73,Neutral
+LV,Letonia,Resto de Europa,Millennials (27-42),Derecha (7-10),5.288891670589229,55,Neutral
+LV,Letonia,Resto de Europa,Gen X (43-58),Izquierda (0-3),4.207367352184778,12,Negativo
+LV,Letonia,Resto de Europa,Gen X (43-58),Centro (4-6),4.884039518234271,110,Negativo
+LV,Letonia,Resto de Europa,Gen X (43-58),Derecha (7-10),4.581140621093937,59,Negativo
+LV,Letonia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),4.04114063594595,42,Negativo
+LV,Letonia,Resto de Europa,Boomers+ (59+),Centro (4-6),4.370434534866195,232,Negativo
+LV,Letonia,Resto de Europa,Boomers+ (59+),Derecha (7-10),4.382155943323591,157,Negativo
+ME,Montenegro,Resto de Europa,Gen Z (<27),Izquierda (0-3),4.922005087418051,26,Negativo
+ME,Montenegro,Resto de Europa,Gen Z (<27),Centro (4-6),4.55439319846261,35,Negativo
+ME,Montenegro,Resto de Europa,Gen Z (<27),Derecha (7-10),3.549548789384328,8,Muy negativo
+ME,Montenegro,Resto de Europa,Millennials (27-42),Izquierda (0-3),4.770540060329979,129,Negativo
+ME,Montenegro,Resto de Europa,Millennials (27-42),Centro (4-6),4.740661577301623,155,Negativo
+ME,Montenegro,Resto de Europa,Millennials (27-42),Derecha (7-10),5.3899419905141315,69,Neutral
+ME,Montenegro,Resto de Europa,Gen X (43-58),Izquierda (0-3),4.606756388875262,145,Negativo
+ME,Montenegro,Resto de Europa,Gen X (43-58),Centro (4-6),4.83815650328822,232,Negativo
+ME,Montenegro,Resto de Europa,Gen X (43-58),Derecha (7-10),4.402586421072518,69,Negativo
+ME,Montenegro,Resto de Europa,Boomers+ (59+),Izquierda (0-3),4.524958255998137,139,Negativo
+ME,Montenegro,Resto de Europa,Boomers+ (59+),Centro (4-6),4.686734749563164,217,Negativo
+ME,Montenegro,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.385191556559216,88,Neutral
+NL,Países Bajos,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.5230307151744,59,Positivo
+NL,Países Bajos,Resto de Europa,Gen Z (<27),Centro (4-6),6.1921100436348935,100,Positivo
+NL,Países Bajos,Resto de Europa,Gen Z (<27),Derecha (7-10),5.2358521640157845,51,Neutral
+NL,Países Bajos,Resto de Europa,Millennials (27-42),Izquierda (0-3),6.607630015540713,98,Positivo
+NL,Países Bajos,Resto de Europa,Millennials (27-42),Centro (4-6),5.999053857178859,179,Neutral
+NL,Países Bajos,Resto de Europa,Millennials (27-42),Derecha (7-10),5.0614435207815,72,Neutral
+NL,Países Bajos,Resto de Europa,Gen X (43-58),Izquierda (0-3),6.470694044316412,79,Positivo
+NL,Países Bajos,Resto de Europa,Gen X (43-58),Centro (4-6),5.813821088668585,221,Neutral
+NL,Países Bajos,Resto de Europa,Gen X (43-58),Derecha (7-10),5.207091194483288,116,Neutral
+NL,Países Bajos,Resto de Europa,Boomers+ (59+),Izquierda (0-3),6.3340236007904505,119,Positivo
+NL,Países Bajos,Resto de Europa,Boomers+ (59+),Centro (4-6),5.627657703135139,319,Neutral
+NL,Países Bajos,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.359401285572794,155,Neutral
+NO,Noruega,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.733994315865924,44,Positivo
+NO,Noruega,Resto de Europa,Gen Z (<27),Centro (4-6),5.954101752210376,87,Neutral
+NO,Noruega,Resto de Europa,Gen Z (<27),Derecha (7-10),5.7828037910085746,58,Neutral
+NO,Noruega,Resto de Europa,Millennials (27-42),Izquierda (0-3),7.156597041953357,88,Muy positivo
+NO,Noruega,Resto de Europa,Millennials (27-42),Centro (4-6),6.479564751410169,132,Positivo
+NO,Noruega,Resto de Europa,Millennials (27-42),Derecha (7-10),6.0565173410108555,83,Positivo
+NO,Noruega,Resto de Europa,Gen X (43-58),Izquierda (0-3),7.2664084459855225,84,Muy positivo
+NO,Noruega,Resto de Europa,Gen X (43-58),Centro (4-6),6.142808185942202,141,Positivo
+NO,Noruega,Resto de Europa,Gen X (43-58),Derecha (7-10),6.003415561453001,142,Positivo
+NO,Noruega,Resto de Europa,Boomers+ (59+),Izquierda (0-3),6.5531690353850305,130,Positivo
+NO,Noruega,Resto de Europa,Boomers+ (59+),Centro (4-6),5.8768728924041405,169,Neutral
+NO,Noruega,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.380062531120564,128,Neutral
+PL,Polonia,Polonia,Gen Z (<27),Izquierda (0-3),5.942504314579682,46,Neutral
+PL,Polonia,Polonia,Gen Z (<27),Centro (4-6),5.320038623225033,97,Neutral
+PL,Polonia,Polonia,Gen Z (<27),Derecha (7-10),5.12452678278694,38,Neutral
+PL,Polonia,Polonia,Millennials (27-42),Izquierda (0-3),6.118654719044574,63,Positivo
+PL,Polonia,Polonia,Millennials (27-42),Centro (4-6),5.347376645189676,143,Neutral
+PL,Polonia,Polonia,Millennials (27-42),Derecha (7-10),5.05355609930058,78,Neutral
+PL,Polonia,Polonia,Gen X (43-58),Izquierda (0-3),6.385830235808953,73,Positivo
+PL,Polonia,Polonia,Gen X (43-58),Centro (4-6),5.639892231649618,137,Neutral
+PL,Polonia,Polonia,Gen X (43-58),Derecha (7-10),5.2655793498392764,90,Neutral
+PL,Polonia,Polonia,Boomers+ (59+),Izquierda (0-3),6.166843455248167,77,Positivo
+PL,Polonia,Polonia,Boomers+ (59+),Centro (4-6),5.938662515549916,143,Neutral
+PL,Polonia,Polonia,Boomers+ (59+),Derecha (7-10),5.133814181586759,192,Neutral
+PT,Portugal,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.571175655806911,12,Positivo
+PT,Portugal,Resto de Europa,Gen Z (<27),Centro (4-6),5.6046470615039405,55,Neutral
+PT,Portugal,Resto de Europa,Gen Z (<27),Derecha (7-10),4.80700240786427,24,Negativo
+PT,Portugal,Resto de Europa,Millennials (27-42),Izquierda (0-3),6.575876049754418,48,Positivo
+PT,Portugal,Resto de Europa,Millennials (27-42),Centro (4-6),5.793644905602771,115,Neutral
+PT,Portugal,Resto de Europa,Millennials (27-42),Derecha (7-10),4.871487928590324,51,Negativo
+PT,Portugal,Resto de Europa,Gen X (43-58),Izquierda (0-3),5.728386547079662,66,Neutral
+PT,Portugal,Resto de Europa,Gen X (43-58),Centro (4-6),5.634348319698378,179,Neutral
+PT,Portugal,Resto de Europa,Gen X (43-58),Derecha (7-10),5.436930642655336,69,Neutral
+PT,Portugal,Resto de Europa,Boomers+ (59+),Izquierda (0-3),5.8688089672865225,117,Neutral
+PT,Portugal,Resto de Europa,Boomers+ (59+),Centro (4-6),5.500390454030052,243,Neutral
+PT,Portugal,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.15462102986251,88,Neutral
+RS,Serbia,Resto de Europa,Gen Z (<27),Izquierda (0-3),5.750823765638971,28,Neutral
+RS,Serbia,Resto de Europa,Gen Z (<27),Centro (4-6),5.730690391716037,43,Neutral
+RS,Serbia,Resto de Europa,Gen Z (<27),Derecha (7-10),4.778303756165488,21,Negativo
+RS,Serbia,Resto de Europa,Millennials (27-42),Izquierda (0-3),5.405841955258972,50,Neutral
+RS,Serbia,Resto de Europa,Millennials (27-42),Centro (4-6),5.269590438540735,111,Neutral
+RS,Serbia,Resto de Europa,Millennials (27-42),Derecha (7-10),4.436390056209621,38,Negativo
+RS,Serbia,Resto de Europa,Gen X (43-58),Izquierda (0-3),5.304632582661437,63,Neutral
+RS,Serbia,Resto de Europa,Gen X (43-58),Centro (4-6),4.71886239563539,151,Negativo
+RS,Serbia,Resto de Europa,Gen X (43-58),Derecha (7-10),3.5266933087560814,57,Muy negativo
+RS,Serbia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),5.2084950609250535,123,Neutral
+RS,Serbia,Resto de Europa,Boomers+ (59+),Centro (4-6),4.699346569922579,184,Negativo
+RS,Serbia,Resto de Europa,Boomers+ (59+),Derecha (7-10),4.439158943165482,75,Negativo
+SE,Suecia,Resto de Europa,Gen Z (<27),Izquierda (0-3),7.5484706948203275,40,Muy positivo
+SE,Suecia,Resto de Europa,Gen Z (<27),Centro (4-6),5.251796181984804,42,Neutral
+SE,Suecia,Resto de Europa,Gen Z (<27),Derecha (7-10),4.759582634784875,28,Negativo
+SE,Suecia,Resto de Europa,Millennials (27-42),Izquierda (0-3),7.598511247551453,86,Muy positivo
+SE,Suecia,Resto de Europa,Millennials (27-42),Centro (4-6),6.578389677672049,100,Positivo
+SE,Suecia,Resto de Europa,Millennials (27-42),Derecha (7-10),5.8525858239874315,60,Neutral
+SE,Suecia,Resto de Europa,Gen X (43-58),Izquierda (0-3),7.5332214030456415,78,Muy positivo
+SE,Suecia,Resto de Europa,Gen X (43-58),Centro (4-6),6.5612027472419765,133,Positivo
+SE,Suecia,Resto de Europa,Gen X (43-58),Derecha (7-10),5.596967147887953,94,Neutral
+SE,Suecia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),7.212998380099996,152,Muy positivo
+SE,Suecia,Resto de Europa,Boomers+ (59+),Centro (4-6),6.253580173858838,234,Positivo
+SE,Suecia,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.242323753703105,138,Neutral
+SI,Eslovenia,Resto de Europa,Gen Z (<27),Izquierda (0-3),6.004719073682106,26,Positivo
+SI,Eslovenia,Resto de Europa,Gen Z (<27),Centro (4-6),5.23590907261666,109,Neutral
+SI,Eslovenia,Resto de Europa,Gen Z (<27),Derecha (7-10),5.069174787838224,33,Neutral
+SI,Eslovenia,Resto de Europa,Millennials (27-42),Izquierda (0-3),6.451990290241584,42,Positivo
+SI,Eslovenia,Resto de Europa,Millennials (27-42),Centro (4-6),5.087991859071857,120,Neutral
+SI,Eslovenia,Resto de Europa,Millennials (27-42),Derecha (7-10),4.095547410562796,40,Negativo
+SI,Eslovenia,Resto de Europa,Gen X (43-58),Izquierda (0-3),5.662249049426529,67,Neutral
+SI,Eslovenia,Resto de Europa,Gen X (43-58),Centro (4-6),5.274033492556783,158,Neutral
+SI,Eslovenia,Resto de Europa,Gen X (43-58),Derecha (7-10),4.651477093556062,53,Negativo
+SI,Eslovenia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),6.125338316615555,104,Positivo
+SI,Eslovenia,Resto de Europa,Boomers+ (59+),Centro (4-6),5.048021760294971,186,Neutral
+SI,Eslovenia,Resto de Europa,Boomers+ (59+),Derecha (7-10),4.10506292893577,78,Negativo
+SK,Eslovaquia,Resto de Europa,Gen Z (<27),Izquierda (0-3),5.243501321588587,6,Neutral
+SK,Eslovaquia,Resto de Europa,Gen Z (<27),Centro (4-6),5.282557644682476,18,Neutral
+SK,Eslovaquia,Resto de Europa,Gen Z (<27),Derecha (7-10),5.749300598644848,21,Neutral
+SK,Eslovaquia,Resto de Europa,Millennials (27-42),Izquierda (0-3),3.7080390772238947,50,Muy negativo
+SK,Eslovaquia,Resto de Europa,Millennials (27-42),Centro (4-6),3.7028691773582687,125,Muy negativo
+SK,Eslovaquia,Resto de Europa,Millennials (27-42),Derecha (7-10),4.763209524929333,73,Negativo
+SK,Eslovaquia,Resto de Europa,Gen X (43-58),Izquierda (0-3),3.3111088193524765,111,Muy negativo
+SK,Eslovaquia,Resto de Europa,Gen X (43-58),Centro (4-6),3.397547150945785,173,Muy negativo
+SK,Eslovaquia,Resto de Europa,Gen X (43-58),Derecha (7-10),4.7503946162128585,79,Negativo
+SK,Eslovaquia,Resto de Europa,Boomers+ (59+),Izquierda (0-3),2.787816349404685,237,Muy negativo
+SK,Eslovaquia,Resto de Europa,Boomers+ (59+),Centro (4-6),3.5178487198371493,215,Muy negativo
+SK,Eslovaquia,Resto de Europa,Boomers+ (59+),Derecha (7-10),3.7429494235105905,101,Muy negativo
+UA,Ucrania,Resto de Europa,Gen Z (<27),Izquierda (0-3),5.865491839975397,17,Neutral
+UA,Ucrania,Resto de Europa,Gen Z (<27),Centro (4-6),5.96190878275395,77,Neutral
+UA,Ucrania,Resto de Europa,Gen Z (<27),Derecha (7-10),6.463213523788306,40,Positivo
+UA,Ucrania,Resto de Europa,Millennials (27-42),Izquierda (0-3),5.266322542343043,44,Neutral
+UA,Ucrania,Resto de Europa,Millennials (27-42),Centro (4-6),5.711133634813347,226,Neutral
+UA,Ucrania,Resto de Europa,Millennials (27-42),Derecha (7-10),6.275853270679562,72,Positivo
+UA,Ucrania,Resto de Europa,Gen X (43-58),Izquierda (0-3),5.5254066032109455,45,Neutral
+UA,Ucrania,Resto de Europa,Gen X (43-58),Centro (4-6),5.788238693510876,229,Neutral
+UA,Ucrania,Resto de Europa,Gen X (43-58),Derecha (7-10),5.981640844142055,67,Neutral
+UA,Ucrania,Resto de Europa,Boomers+ (59+),Izquierda (0-3),4.8047004532410105,72,Negativo
+UA,Ucrania,Resto de Europa,Boomers+ (59+),Centro (4-6),4.8972601004866325,287,Negativo
+UA,Ucrania,Resto de Europa,Boomers+ (59+),Derecha (7-10),5.850226486656693,93,Neutral

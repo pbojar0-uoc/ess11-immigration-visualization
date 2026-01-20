@@ -1,0 +1,61 @@
+Country_Name,Country_Highlight,Region,Ideologia,Immigration_Score,Polarizacion,Sample_Size,Country_Order
+Austria,Resto de Europa,Europa Occidental,Derecha (7-10),3.5889788355752157,3.132315424616031,270,1
+Austria,Resto de Europa,Europa Occidental,Izquierda (0-3),6.721294260191247,3.132315424616031,371,1
+Francia,Resto de Europa,Europa Occidental,Derecha (7-10),4.074767520647512,2.4771070514320748,413,2
+Francia,Resto de Europa,Europa Occidental,Izquierda (0-3),6.551874572079587,2.4771070514320748,398,2
+Italia,Resto de Europa,Europa Meridional,Derecha (7-10),3.7055017872269227,2.408552087753778,597,3
+Italia,Resto de Europa,Europa Meridional,Izquierda (0-3),6.1140538749807005,2.408552087753778,474,3
+Suecia,Resto de Europa,Europa Nórdica,Derecha (7-10),5.404824402719007,2.0439919810559157,320,4
+Suecia,Resto de Europa,Europa Nórdica,Izquierda (0-3),7.448816383774923,2.0439919810559157,356,4
+Reino Unido,Resto de Europa,Europa Occidental,Derecha (7-10),5.67746774320277,1.852351992710414,216,5
+Reino Unido,Resto de Europa,Europa Occidental,Izquierda (0-3),7.5298197359131835,1.852351992710414,366,5
+Alemania,Resto de Europa,Europa Occidental,Derecha (7-10),4.602303802846294,1.8344330646825169,264,6
+Alemania,Resto de Europa,Europa Occidental,Izquierda (0-3),6.436736867528811,1.8344330646825169,593,6
+Islandia,Resto de Europa,Europa Nórdica,Derecha (7-10),6.0759839075534705,1.650804189785755,192,7
+Islandia,Resto de Europa,Europa Nórdica,Izquierda (0-3),7.726788097339226,1.650804189785755,229,7
+Eslovenia,Resto de Europa,Europa Oriental,Derecha (7-10),4.407982967435343,1.620601878645906,204,8
+Eslovenia,Resto de Europa,Europa Oriental,Izquierda (0-3),6.028584846081249,1.620601878645906,239,8
+Suiza,Resto de Europa,Europa Occidental,Derecha (7-10),5.578256339672474,1.5732595686594477,316,9
+Suiza,Resto de Europa,Europa Occidental,Izquierda (0-3),7.1515159083319215,1.5732595686594477,310,9
+España,España,Europa Meridional,Derecha (7-10),5.449247654708366,1.3633365259207855,335,10
+España,España,Europa Meridional,Izquierda (0-3),6.812584180629152,1.3633365259207855,517,10
+Finlandia,Resto de Europa,Europa Nórdica,Derecha (7-10),6.242259350600918,1.2865437985799044,568,11
+Finlandia,Resto de Europa,Europa Nórdica,Izquierda (0-3),7.528803149180822,1.2865437985799044,280,11
+Países Bajos,Resto de Europa,Europa Occidental,Derecha (7-10),5.235783588389641,1.2461478504130605,394,12
+Países Bajos,Resto de Europa,Europa Occidental,Izquierda (0-3),6.481931438802701,1.2461478504130605,355,12
+Bélgica,Resto de Europa,Europa Occidental,Derecha (7-10),5.030975076921935,1.1812337749026485,373,13
+Bélgica,Resto de Europa,Europa Occidental,Izquierda (0-3),6.212208851824584,1.1812337749026485,314,13
+Serbia,Resto de Europa,Europa Oriental,Derecha (7-10),4.199370241417726,1.1483286279999918,191,14
+Serbia,Resto de Europa,Europa Oriental,Izquierda (0-3),5.347698869417718,1.1483286279999918,264,14
+Noruega,Resto de Europa,Europa Nórdica,Derecha (7-10),5.795770018776617,1.0998368811690558,411,15
+Noruega,Resto de Europa,Europa Nórdica,Izquierda (0-3),6.8956068999456726,1.0998368811690558,346,15
+Polonia,Polonia,Europa Oriental,Derecha (7-10),5.148404157639204,1.034709353036602,398,16
+Polonia,Polonia,Europa Oriental,Izquierda (0-3),6.183113510675806,1.034709353036602,259,16
+Hungría,Resto de Europa,Europa Oriental,Derecha (7-10),3.49942411327515,0.9597528769279751,675,17
+Hungría,Resto de Europa,Europa Oriental,Izquierda (0-3),4.459176990203125,0.9597528769279751,340,17
+Portugal,Resto de Europa,Europa Meridional,Derecha (7-10),5.118437417244842,0.9101731015959071,232,18
+Portugal,Resto de Europa,Europa Meridional,Izquierda (0-3),6.0286105188407495,0.9101731015959071,243,18
+Grecia,Resto de Europa,Europa Meridional,Derecha (7-10),3.81866902877171,0.8202182031894854,706,19
+Grecia,Resto de Europa,Europa Meridional,Izquierda (0-3),4.638887231961196,0.8202182031894854,451,19
+Croacia,Resto de Europa,Europa Oriental,Derecha (7-10),4.618067732182092,0.7911182852694392,327,20
+Croacia,Resto de Europa,Europa Oriental,Izquierda (0-3),5.409186017451531,0.7911182852694392,265,20
+Bulgaria,Resto de Europa,Europa Oriental,Derecha (7-10),3.422930687770969,0.6527811801285788,542,21
+Bulgaria,Resto de Europa,Europa Oriental,Izquierda (0-3),4.075711867899548,0.6527811801285788,360,21
+Irlanda,Resto de Europa,Europa Occidental,Derecha (7-10),5.902306429338883,0.600712020858408,289,22
+Irlanda,Resto de Europa,Europa Occidental,Izquierda (0-3),6.503018450197291,0.600712020858408,326,22
+Chipre,Resto de Europa,Europa Meridional,Derecha (7-10),3.592672733576524,0.10519498605654976,171,23
+Chipre,Resto de Europa,Europa Meridional,Izquierda (0-3),3.6978677196330736,0.10519498605654976,129,23
+Estonia,Resto de Europa,Europa Oriental,Derecha (7-10),5.350063890012391,0.10094582383074346,341,24
+Estonia,Resto de Europa,Europa Oriental,Izquierda (0-3),5.451009713843135,0.10094582383074346,108,24
+Montenegro,Resto de Europa,Europa Meridional,Derecha (7-10),4.930469546129357,-0.2620591494639095,234,25
+Montenegro,Resto de Europa,Europa Meridional,Izquierda (0-3),4.668410396665448,-0.2620591494639095,439,25
+Letonia,Resto de Europa,Europa Oriental,Derecha (7-10),4.779841211992266,-0.2809498298065476,291,26
+Letonia,Resto de Europa,Europa Oriental,Izquierda (0-3),4.498891382185718,-0.2809498298065476,70,26
+Israel,Resto de Europa,Otro,Derecha (7-10),5.329528386673082,-0.6823746869858205,325,27
+Israel,Resto de Europa,Otro,Izquierda (0-3),4.647153699687261,-0.6823746869858205,153,27
+Ucrania,Resto de Europa,Europa Oriental,Derecha (7-10),6.117815552995735,-0.8615134549629291,272,28
+Ucrania,Resto de Europa,Europa Oriental,Izquierda (0-3),5.256302098032806,-0.8615134549629291,178,28
+Lituania,Resto de Europa,Europa Oriental,Derecha (7-10),5.993180900170887,-0.9796789874037177,265,29
+Lituania,Resto de Europa,Europa Oriental,Izquierda (0-3),5.013501912767169,-0.9796789874037177,189,29
+Eslovaquia,Resto de Europa,Europa Oriental,Derecha (7-10),4.6461802315651815,-1.3627536522752095,274,30
+Eslovaquia,Resto de Europa,Europa Oriental,Izquierda (0-3),3.283426579289972,-1.3627536522752095,404,30
